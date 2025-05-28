@@ -1,0 +1,84 @@
+.map-settings-container {
+    margin: 20px 0;
+}
+
+.map-setting-row {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 15px;
+}
+
+.map-setting-row label {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.map-setting-row input {
+    width: 100%;
+}
+
+.markers-container {
+    margin-bottom: 20px;
+}
+
+.marker-row {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 15px;
+    padding: 15px;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    align-items: flex-end;
+}
+
+.marker-field {
+    flex: 1;
+}
+
+.marker-field label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+.marker-field input {
+    width: 100%;
+}
+
+.remove-marker {
+    height: fit-content;
+}
+
+#map-preview {
+    height: 400px;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+/* Documentation styles */
+.interactive-location-map-docs {
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    margin: 20px 0;
+}
+
+.interactive-location-map-docs pre {
+    background: #f5f5f5;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    overflow-x: auto;
+}
+
+.interactive-location-map-docs code {
+    background: #f5f5f5;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-size: 13px;
+}
