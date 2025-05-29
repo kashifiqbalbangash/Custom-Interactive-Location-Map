@@ -14,6 +14,28 @@ A dynamic location mapping plugin that lets you create interactive maps with cus
 
 **Interactive Location Map** is a user-friendly plugin to build fully customizable, responsive maps using Leaflet.js. Ideal for businesses, directories, or anyone needing to visualize locations interactively.
 
+---
+
+## 📸 Screenshots
+
+### ➕ Add New Map
+![Login Page](screenshots/add_new_map.png)
+
+### ✏️ Edit Existing Map
+![Login Page](screenshots/edit_map.png)
+
+### 📋 Maps List Page
+![Task List](screenshots/maps_listing.png)
+
+### ⚙️ Map Settings
+![Create Task](screenshots/settings.png)
+
+### 📄 Documentation
+![Create Task](screenshots/documentation.png)
+
+
+---
+
 **Key Features:**
 
 - Create unlimited maps as custom post types
