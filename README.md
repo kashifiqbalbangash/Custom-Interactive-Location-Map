@@ -19,19 +19,19 @@ A dynamic location mapping plugin that lets you create interactive maps with cus
 ## 📸 Screenshots
 
 ### ➕ Add New Map
-![Login Page](screenshots/add_new_map.png)
+![Add New](screenshots/add_new_map.png)
 
 ### ✏️ Edit Existing Map
-![Login Page](screenshots/edit_map.png)
+![Edit Existing](screenshots/edit_map.png)
 
 ### 📋 Maps List Page
-![Task List](screenshots/maps_listing.png)
+![Maps List](screenshots/maps_listing.png)
 
 ### ⚙️ Map Settings
-![Create Task](screenshots/settings.png)
+![Map Settings](screenshots/settings.png)
 
 ### 📄 Documentation
-![Create Task](screenshots/documentation.png)
+![Documentation](screenshots/documentation.png)
 
 
 ---
